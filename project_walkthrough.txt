@@ -1,0 +1,63 @@
+📌 Project Title: E-commerce Site Scraping & Static Clone using AI Tools
+
+🔧 Tools & Technologies Used:
+- Python (in Google Colab)
+- BeautifulSoup & Requests for web scraping
+- ChatGPT for code assistance and HTML generation
+- HTML/CSS for site clone
+- CSV for structured data storage
+
+🌐 Website Selected for Scraping:
+- http://books.toscrape.com
+- Reason: Open for public scraping practice, contains categories, product details, and images
+
+
+🧩 Part 1 – Web Scraping
+
+✔️ Actions Performed:
+- Scraped all available books from the site
+- Collected:
+  - Title
+  - Price
+  - Availability
+  - Rating
+  - Category
+  - Product Page URL
+  - Image URL
+- Saved data to a structured CSV file: `books_data.csv`
+
+🗂️ Output:
+- File: `books_data.csv`
+
+
+🧩 Part 2 – Static HTML Clone of Website
+
+✔️ Actions Performed:
+- Used scraped data to generate a static HTML mockup
+- Displayed book titles, images, prices, and availability
+- Used responsive design so it works on mobile too
+- Saved HTML file as: `books_clone_full.html`
+
+🖼️ Output:
+- File: `books_clone_full.html` (Can be opened in any browser)
+
+
+🎥 Loom Video Explanation (⚠️ Not Provided Due to Network Issues)
+
+Due to temporary internet/network issues, Loom recording was not possible.  
+👉 Instead of video, this text file provides a detailed step-by-step explanation of the process.  
+If required, the video will be shared once network is stable.
+
+
+📦 Files Submitted:
+- ✅ scrape_books.py – Python code for scraping
+- ✅ books_data.csv – Final scraped dataset
+- ✅ books_clone_full.html – Static site clone
+- ✅ project_walkthrough.txt – This walkthrough explanation
+
+💡 Everything has been uploaded to GitHub.
+
+GitHub Repo Link: [https://github.com/Sharibakhan/ecommerce-scraping-project.git]
+
+
+✅ All assignment deliverables are complete as per requirements.
